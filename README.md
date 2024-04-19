@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hadeel Almofarrij
-- 👀 I’m interested in Games development field ..
+- 👀 I’m interested in Games development field / ui/ux designing ..
 - 🌱 I’m currently learning on Java , html, css , java script and php ..
 - 📫 How to reach me --> Almofarrij1Hadeel@gail.com
 
